@@ -1,4 +1,4 @@
-# VieNeu-TTS
+# Audioghost-AI-Pinokio
 
 A pinokio script for https://github.com/0x0funky/audioghost-ai
 
@@ -11,5 +11,6 @@ step 2 : run startFrontEnd.js
 step 3 : open Webui
 
 more information please go to the original repo
+
 
 
